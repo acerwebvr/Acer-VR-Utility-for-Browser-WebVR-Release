@@ -9,10 +9,10 @@ We offer different VR utility solutions to the same browsers. User can experimen
 Make sure you have installed the browser you need.  
 Download and install Acer VR Utility for Browser WebVR (Experimental).  
 
-[Acer VR Utility for Chrome Browser WebVR](https://www.google.com.tw/)  
-[Acer VR Utility for Firefox Browser WebVR](https://www.google.com.tw/)  
-[Acer VR Utility for Opera Browser WebVR](https://www.google.com.tw/)  
-[Acer VR Utility for 360 Browser WebVR](https://www.google.com.tw/)  
+[Acer VR Utility for Chrome Browser WebVR](https://github.com/acerwebvr/Acer-VR-Utility-for-Browser-WebVR-Release/releases/tag/Acer-VR-Utility-for-Chrome-Browser-WebVR-v1.01.1004)  
+[Acer VR Utility for Firefox Browser WebVR](https://github.com/acerwebvr/Acer-VR-Utility-for-Browser-WebVR-Release/releases/tag/Acer-VR-Utility-for-Firefox-Browser-WebVR-v1.02.0011)  
+[Acer VR Utility for QQ Browser WebVR](https://github.com/acerwebvr/Acer-VR-Utility-for-Browser-WebVR-Release/releases/tag/Acer-VR-Utility-for-QQ-Browser-WebVR-v1.05.0003)  
+[Acer VR Utility for 360 Browser WebVR](https://github.com/acerwebvr/Acer-VR-Utility-for-Browser-WebVR-Release/releases/tag/Acer-VR-Utility-for-360-Browser-WebVR-v1.04.0003)
 
 
 ### Step2: You must have the Mixed Reality Portal running  
